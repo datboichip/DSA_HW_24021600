@@ -36,3 +36,6 @@ int main() {
 
     return 0;
 }
+
+// Time Complexity: O(N^2)
+// Memory Complexity: O(1), O(N) nếu tính cả mảng đầu vào.
